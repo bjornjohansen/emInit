@@ -1,3 +1,4 @@
+/* jQuery version (untested) */
 $(document).ready(function(){
 	var addr, em;
 	try {
